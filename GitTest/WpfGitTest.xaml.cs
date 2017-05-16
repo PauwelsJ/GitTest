@@ -23,5 +23,11 @@ namespace GitTest
         {
             InitializeComponent();
         }
+
+        private void btnWelkom_Click(object sender, RoutedEventArgs e)
+        {
+            lstWelkom.Items.Add("Bienvenue");
+
+        }
     }
 }
