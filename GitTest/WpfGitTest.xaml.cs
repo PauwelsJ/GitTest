@@ -28,6 +28,7 @@ namespace GitTest
         {
             lstWelkom.Items.Add("Bienvenue");
             lstWelkom.Items.Add("Wilkommen");
+            lstWelkom.Items.Add("Tsjakkamakka");
 
         }
     }
